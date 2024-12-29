@@ -6,27 +6,27 @@ import Image from 'next/image';
 const projects = [
   {
     name: 'Project 1',
-    image: '/project444.png',
-    liveLink: 'https://ahmedecomshop.netlify.app/',
-    githubLink: 'https://github.com/AhmedMemon1234/EcommerceWeb',
+    image: '/s.jpg',
+    liveLink: 'https://clothing-website-multipage.vercel.app/',
+    githubLink: 'https://github.com/FaisalSiddique321/clothing-website.git',
   },
   {
     name: 'Project 2',
-    image: '/project111.png',
-    liveLink: 'https://final-hackathon-stbq.vercel.app/',
-    githubLink: 'https://github.com/AhmedMemon1234/FinalHackathon',
+    image: '/ss.jpg',
+    liveLink: 'https://e-commerce-website-topaz-theta.vercel.app/',
+    githubLink: 'https://github.com/FaisalSiddique321/e-commerce-website.git',
   },
   {
     name: 'Project 3',
-    image: '/resume.png',
-    liveLink: 'https://milestone5-wheat.vercel.app/',
-    githubLink: 'https://github.com/AhmedMemon1234/milestone5',
+    image: '/sss.jpg',
+    liveLink: 'https://panacloudwebsite-nine.vercel.app/',
+    githubLink: 'https://github.com/FaisalSiddique321/panacloudwebsite.git',
   },
   {
     name: 'Project 4',
-    image: '/project22.png',
-    liveLink: 'https://portfolio-ahmed-vskh.vercel.app/',
-    githubLink: 'https://github.com/AhmedMemon1234/Portfolio-Ahmed',
+    image: '/ssss.jpg',
+    liveLink: 'https://count-down-timer-psi-mauve.vercel.app/',
+    githubLink: 'https://github.com/FaisalSiddique321/CountDown-Timer.git',
   },
 ];
 

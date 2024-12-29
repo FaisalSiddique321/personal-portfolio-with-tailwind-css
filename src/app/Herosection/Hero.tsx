@@ -97,14 +97,14 @@ const HeroSection = () => {
           </div>
           <div className="flex justify-center md:justify-start space-x-4 mt-6">
             <a
-              href="/Mypdf.pdf"
+              href="/My cv.pdf"
               download
               className="px-6 py-3 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 transition duration-300"
             >
               Explore CV
             </a>
             <a
-              href="https://discord.com/users/braveboy0675_78344"
+              href="https://www.linkedin.com/in/faisal-siddiqui-8725302b7/"
               className="px-6 py-3 bg-gray-800 text-white rounded-lg shadow-md hover:bg-gray-900 transition duration-300"
             >
               Hire Me

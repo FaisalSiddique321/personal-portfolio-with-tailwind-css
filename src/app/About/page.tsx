@@ -17,7 +17,7 @@ const AboutSection = () => {
             viewport={{ once: false, amount: 0.3 }} // Trigger when 30% of the image is visible
           >
             <Image
-              src="/my.jpg"
+              src="/bg.jpg"
               alt="Ahmed Memon"
               width={500}
               height={500}

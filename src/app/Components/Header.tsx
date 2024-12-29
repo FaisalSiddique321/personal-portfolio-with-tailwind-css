@@ -29,13 +29,13 @@ const Header = () => {
 
           {/* New Buttons */}
           <a
-            href="https://discord.com/users/braveboy0675_78344"
+            href="https://www.linkedin.com/in/faisal-siddiqui-8725302b7/"
             className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300"
           >
             Hire Me
           </a>
           <a
-            href="/Mypdf.pdf" // Link to your CV file
+            href="/My cv.pdf" // Link to your CV file
             target="_blank"
             className="bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition duration-300"
           >
@@ -62,7 +62,7 @@ const Header = () => {
             {/* Mobile Buttons Below Menu Items */}
             <li>
               <a
-                href="https://discord.com/users/braveboy0675_78344"
+                href="https://www.linkedin.com/in/faisal-siddiqui-8725302b7/"
                 className="block text-lg font-medium bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition duration-300"
               >
                 Hire Me
@@ -70,7 +70,7 @@ const Header = () => {
             </li>
             <li>
               <a
-                href="/Mypdf.pdf" // Link to your CV file
+                href="/My cv.pdf" // Link to your CV file
                 target="_blank"
                 className="block text-lg font-medium bg-gray-800 text-white px-4 py-2 rounded-lg hover:bg-gray-700 transition duration-300"
               >
