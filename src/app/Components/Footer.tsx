@@ -1,6 +1,6 @@
 'use client';
 import React from 'react';
-import { FaFacebookF, FaLinkedinIn, FaDiscord, FaGithub, FaInstagram} from 'react-icons/fa'; // Import React Icons
+import { FaFacebookF, FaLinkedinIn, FaGithub, FaInstagram} from 'react-icons/fa'; // Import React Icons
 import { SlEnvolope } from 'react-icons/sl';
 
 const Footer = () => {

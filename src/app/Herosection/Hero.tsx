@@ -20,7 +20,7 @@ const HeroSection = () => {
 
   useEffect(() => {
     let typingInterval: NodeJS.Timeout;
-    let deletingInterval: NodeJS.Timeout;
+    let deletingInterval: NodeJS.Timeout; 
 
     if (isTyping) {
       typingInterval = setInterval(() => {
@@ -31,7 +31,7 @@ const HeroSection = () => {
         if (currentPhrase === phrases[currentIndex]) {
           setIsTyping(false);
         }
-      }, 150); // Adjust typing speed here
+      },  150); // Adjust typing speed here
     } else {
       deletingInterval = setInterval(() => {
         setCurrentPhrase((prev) => {
@@ -42,7 +42,7 @@ const HeroSection = () => {
           setIsTyping(true);
           setCurrentIndex((prev) => (prev + 1) % phrases.length); // Cycle through phrases
         }
-      }, 100); // Adjust deleting speed here
+      },  100); // Adjust deleting speed here
     }
 
     return () => {
