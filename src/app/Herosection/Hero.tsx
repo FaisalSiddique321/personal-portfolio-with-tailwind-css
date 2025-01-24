@@ -97,7 +97,7 @@ const HeroSection = () => {
           </div>
           <div className="flex justify-center md:justify-start space-x-4 mt-6">
             <a
-              href="/My cv.pdf"
+              href="/https://drive.google.com/file/d/1Z5vUOY1XeTkvnzGoezgFa8eD74Q3anVA/view?usp=drivesdk"
               download
               className="px-6 py-3 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 transition duration-300"
             >
